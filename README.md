@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dan!
+- 👀 I’m interested in learning CS and programming for fun
+- 🌱 I’m currently learning web development with ReactJS, CSS, HTML, and Django and the Twitter API with Tweepy
+- 📫 Reach me on my website at danielyzhang.com
